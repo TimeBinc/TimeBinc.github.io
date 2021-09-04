@@ -5124,7 +5124,7 @@ a.thumbnail.active {
   position: relative;
   display: block;
   padding: 10px 15px;
-  margin-bottom: -1px
+  margin-bottom: -1px;
   background-color: #000;
   border: 1px solid #ddd;
 }
